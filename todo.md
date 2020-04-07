@@ -1,0 +1,32 @@
+- [ ] Create Race Rules
+  - [ ] Write up Ruleset document
+  - [ ] Show document to Snapscord and get feedback
+  - [ ] Update document with feedback
+- [ ] Create Tournament Rules
+  - [ ] Write up Ruleset document
+  - [ ] Show document to Snapscord and get feedback
+  - [ ] Update document with feedback
+- [ ] Write up schedule for running PSTGP
+  - [ ] Include weekly race times
+  - [ ] Include entire Grand Prix Span
+- [ ] Decide Prizes
+  - [ ] Create list of prizes a team could get and share?
+    - [ ] Badges for each
+  - [ ] Decide on super secret fun prize (Custom Cart?)
+  - [ ] Extra prize for specific statistics [Most improved, most wins, most clutch run, etc.]
+- [ ] Design Standings
+  - [ ] Finalize Design document
+  - [ ] Add tasks to JIRA project
+  - [ ] Set sprint due dates
+- [ ] Design Stream Layout
+  - [ ] Add tasks to JIRA project
+  - [ ] Ask for beta testers
+- [ ] Plan Exhibition match (minimum 3v3)
+- [ ] Request someone make graphics
+- [ ] Registration
+  - [ ] Create Registration Page
+  - [ ] Decide when registration
+- [ ] Launch
+  - [ ] Discord
+  - [ ] Twitter
+  - [ ] Twitch
