@@ -1,6 +1,6 @@
-# Pokémon Snap Team Grand Prix
-
 ![Pokémon Snap Team Grand Prix](images/logo.png)
+
+# Pokémon Snap Team Grand Prix
 
 Pokémon Snap Team Grand Prix [PSTGP] is a speedrunning competition for fun and to alleviate common issues with Pokémon Snap speedrunning, such as RNG and large speed differences between runners.
 
