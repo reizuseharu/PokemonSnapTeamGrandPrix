@@ -12,8 +12,8 @@ Race rules for Pokémon Snap Team Grand Prix
 
 ## Speedrun Rules
 - The rules will follow the same as on [speedrun.com](speedrun.com/pkmnsnap) for Any% runs of Pokémon Snap
-- If PSTGP has another event of a different category, the respective rules apply (timing limits will change)
-- Runners with a PB under 21:30 cannot run on WiiU VC to ensure a fair experience
+- Runners with a PB under 21:30 cannot run on WiiU VC, unless every race participant is as well, to ensure a fair experience
+- Future events of different categories will apply the same rules (timing limits will change)
 
 ## DNF
 - If a runner does not finish their run, whether by technical difficulties or personal choice, they will receive 0 points

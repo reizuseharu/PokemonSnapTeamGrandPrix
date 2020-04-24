@@ -10,25 +10,27 @@ Tournament rules for Pokémon Snap Team Grand Prix
 - Registration will require Twitch Username, Personal Best for Any% (including console and cart region), and a link to a video of the Personal Best
 - A Tournament Administrator will review and validate each registration to verify PB
   - Runs on speedrun.com/pkmnsnap will be automatically validated
-- To register for the tournament you **must** have completed at least 1 run of Any%
+- To register for the tournament you **must** have completed **at least** 1 run of Any%
 - Registration for becoming a Tournament Administrator will be through [Pokémon Snap Team Grand Prix's Adminstration Registration page](tgp.pkmnsnap.com/registration/administrator)
 
 
 ### Leader
 - Team leaders may apply and will be selected by random chance of those applied
-  - Each Team Leader applicant will be assigned a random number
-  - The TO will start River and see if all Cloysters appear to decide which leaders are accepted
-    - i.e. If all 4 cloysters appear on an attempt, then that leader will be selected. If after N attempts not all slots are filled, it will rotate
-    - e.g. 7 people apply to be team leader when only 4 can be: CJ applies to be leader and is assigned the number 2
-      - Attempt 1: 2
-      - Attempt 2: 0
-      - Attempt 3: 4 &rarr; **Leader `3` SELECTED**
-      - ...
-      - Attempt 7: 1
-      - Attempt 8: 3
-      - Attempt 9: 4 &rarr; **Leader `2` [CJ] SELECTED**
-      - Attempt 10: 4 &rarr; **Leader `4` SELECTED**
-      - ...
+
+#### Convoluted method of choosing Leader
+- Each Team Leader applicant will be assigned a random number
+- The TO will start River and see if all Cloysters appear to decide which leaders are accepted
+  - i.e. If all 4 cloysters appear on an attempt, then that leader will be selected. If after N attempts not all slots are filled, it will rotate
+  - e.g. 7 people apply to be team leader when only 4 can be selected; CJ applies to be leader and is assigned the number 2
+    - (1) Attempt 1: 2
+    - (2) Attempt 2: 0
+    - (3) Attempt 3: 4 &rarr; **Leader `3` SELECTED**
+    - ...
+    - (7) Attempt 7: 1
+    - (1) Attempt 8: 3
+    - (2) Attempt 9: 4 &rarr; **Leader `2` [CJ] SELECTED**
+    - (4) Attempt 10: 4 &rarr; **Leader `4` SELECTED**
+    - ...
 - Team Leader selection will be streamed on twitch.tv/PokemonSnapTeamGrandPrix
 
 ## Team Setup
